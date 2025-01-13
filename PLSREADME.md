@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTM2bHd1MDQ1Zm55eG90NGNhZWlha3dkMTJ5ZmZxdmxlejd2ZW9qeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3LZdeA8IiUJa/giphy.gif" width="777"/>
 </div>
+
 # Twine
 https://nazuker.github.io/PredmetyLN/Twine_zachet_arch.html - Сборка ПК
 ____
