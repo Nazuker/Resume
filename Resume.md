@@ -15,6 +15,8 @@ https://drive.google.com/drive/folders/1b7VD0miU58KBJP1bLx3k0Efp-zvWd8Wz?usp=sha
 ____
 # Twine
 https://nazuker.github.io/PredmetyLN/Twine_zachet_arch.html - Сборка ПК
+
+https://manicom666.github.io/Nizov-Denis-Algorithmization/ - Алгоритмизация, автоматизация создания документа
 ____
 # Теория
 https://docs.google.com/document/d/14dCRIoorhKa761dtOfCT9N8IUIr5nW9lOQYM96EmPRM/edit?usp=drive_link - База данных
