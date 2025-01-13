@@ -4,7 +4,7 @@
   <a href="https://x.com/tikerplay">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=Nazuker&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Nazuker&style=flat-square&color=blue" alt=""/>
 </div>
 
 # Twine
