@@ -28,4 +28,4 @@ https://docs.google.com/document/d/1iFnyzy958XWPTL291ovYlNckV1fUzRVpbT-7A8tqzgA/
 
 https://docs.google.com/document/d/13HQQ8p14K-0Di_0gqgaFuwYr7-LMD2sOiLKOPMuhYrE/edit?usp=drive_link - Сообщение по фильму
 
-https://drive.google.com/drive/folders/1lxQFavN0YRWOeHXS3XeKXkVfDqRwaMRb?usp=sharing - База данных учет
+https://drive.google.com/drive/folders/1SFtzZs_WmJjFJBcwbYWYvo17PytxWLlt?usp=sharing - Базы данных
