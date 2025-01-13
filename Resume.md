@@ -15,6 +15,8 @@ ____
 https://docs.google.com/document/d/14dCRIoorhKa761dtOfCT9N8IUIr5nW9lOQYM96EmPRM/edit?usp=drive_link - База данных
 
 https://docs.google.com/document/d/1bbyrWhBcqnak3HQpHW6n3lG2U8QGatpsup50N4PuIJ4/edit?usp=drivesdk - История операционных систем
+
+https://docs.google.com/document/d/1hPTeWUHyoeYQihpjM_Z52cnFD47OrsCXDqwJ6q7RhjY/edit?usp=drivesdk - Гит алгоритмизация
 ____
 # Задания
 https://docs.google.com/document/d/1iz7XNxF0A7ZVQH5ZA7bCRpbrs8ErYE4fOi83YjxldcY/edit?usp=drive_link - ВПР
