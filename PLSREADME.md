@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTM2bHd1MDQ1Zm55eG90NGNhZWlha3dkMTJ5ZmZxdmxlejd2ZW9qeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3LZdeA8IiUJa/giphy.gif" width="777"/>
+</div>
 # Twine
 https://nazuker.github.io/PredmetyLN/Twine_zachet_arch.html - Сборка ПК
 ____
@@ -12,6 +15,3 @@ https://docs.google.com/document/d/1iz7XNxF0A7ZVQH5ZA7bCRpbrs8ErYE4fOi83YjxldcY/
 https://docs.google.com/document/d/1iFnyzy958XWPTL291ovYlNckV1fUzRVpbT-7A8tqzgA/edit?usp=drive_link - Практикум
 
 https://docs.google.com/document/d/13HQQ8p14K-0Di_0gqgaFuwYr7-LMD2sOiLKOPMuhYrE/edit?usp=drive_link - Сообщение по фильму
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTM2bHd1MDQ1Zm55eG90NGNhZWlha3dkMTJ5ZmZxdmxlejd2ZW9qeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3LZdeA8IiUJa/giphy.gif" width="100"/>
-</div>
