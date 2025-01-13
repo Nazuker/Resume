@@ -8,6 +8,9 @@
 </div>
 </div>
 
+# Проект
+https://ru.yougile.com/board/npmqx9pgvjwm 
+____
 # Twine
 https://nazuker.github.io/PredmetyLN/Twine_zachet_arch.html - Сборка ПК
 ____
