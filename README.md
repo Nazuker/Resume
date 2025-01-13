@@ -14,7 +14,7 @@ https://ru.yougile.com/board/npmqx9pgvjwm - Доска с заданиями
 https://drive.google.com/drive/folders/1b7VD0miU58KBJP1bLx3k0Efp-zvWd8Wz?usp=sharing - Создание документов с использованием Python'а
 ____
 # Twine
-https://nazuker.github.io/PredmetyLN/Twine_zachet_arch.html - Сборка ПК
+https://nazuker.github.io/Resume/Twine_zachet_arch.html - Сборка ПК
 
 https://manicom666.github.io/Nizov-Denis-Algorithmization/ - Алгоритмизация, автоматизация создания документа
 ____
