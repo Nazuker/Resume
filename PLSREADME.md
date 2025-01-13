@@ -1,7 +1,8 @@
 # Twine
 https://nazuker.github.io/PredmetyLN/Twine_zachet_arch.html - Сборка ПК
 ____
-##База данных
+# Теория
+## База данных
 https://docs.google.com/document/d/14dCRIoorhKa761dtOfCT9N8IUIr5nW9lOQYM96EmPRM/edit?usp=drive_link
 
 ##История операционных систем
