@@ -12,6 +12,8 @@
 https://ru.yougile.com/board/npmqx9pgvjwm - Доска с заданиями
 
 https://drive.google.com/drive/folders/1b7VD0miU58KBJP1bLx3k0Efp-zvWd8Wz?usp=sharing - Создание документов с использованием Python'а
+
+https://colab.research.google.com/drive/1pb_j0tNA5UbVNiN-h_TYmLtAbjqj624Z - ТГ бот
 ____
 # Twine
 https://nazuker.github.io/Resume/Twine_zachet_arch.html - Сборка ПК
@@ -33,3 +35,4 @@ https://docs.google.com/document/d/1iFnyzy958XWPTL291ovYlNckV1fUzRVpbT-7A8tqzgA/
 https://docs.google.com/document/d/13HQQ8p14K-0Di_0gqgaFuwYr7-LMD2sOiLKOPMuhYrE/edit?usp=drive_link - Сообщение по фильму
 
 https://drive.google.com/drive/folders/1SFtzZs_WmJjFJBcwbYWYvo17PytxWLlt?usp=sharing - Базы данных
+
