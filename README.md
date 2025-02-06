@@ -36,3 +36,5 @@ https://docs.google.com/document/d/13HQQ8p14K-0Di_0gqgaFuwYr7-LMD2sOiLKOPMuhYrE/
 
 https://drive.google.com/drive/folders/1SFtzZs_WmJjFJBcwbYWYvo17PytxWLlt?usp=sharing - Базы данных
 
+https://docs.google.com/document/d/1uiH9LqTWdGTrWasr4rBUxHFSX686WTWxtfREscTXFc4/edit?usp=drive_link - owasp
+
